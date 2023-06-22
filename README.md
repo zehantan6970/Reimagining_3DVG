@@ -30,7 +30,7 @@ You can use the following scripts for the train: T_V_en_base_with_F_4L_e4_BERT.p
 
 ## Inference
 
-You can use the example scripts demo.py in the demo directory to perform RGB images, depth images, and text descriptions. 
+You can use the example scripts demo.py to perform RGB images, depth images, and text descriptions. 
 
 ## Comparison Experiment
 
