@@ -40,4 +40,4 @@ See experiment directory.
 ## Acknowledgement
 
 We appreciate the open source of the following projects: [MVT-3DVG](https://github.com/sega-hsj/MVT-3DVG) ,  [OFA](https://github.com/OFA-Sys), [UNINEXT](https://github.com/MasterBin-IIAU/UNINEXT), [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO), [ScanRefer](https://github.com/daveredrum/ScanRefer), [EDA](https://github.com/yanmin-wu/EDA ),
-and [MDETR](https://github.com/ashkamath/mdetr).
+and [ScanNet](https://github.com/ScanNet/ScanNet).
